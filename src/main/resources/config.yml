@@ -1,2 +1,2 @@
-joinmessage: "&e%playername% joined the game"
-quitmessage: "&e%playername% left the game"
+joinmessage: "&7%playername% joined."
+quitmessage: "&7%playername% left."
